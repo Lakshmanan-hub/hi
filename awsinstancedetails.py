@@ -1,5 +1,5 @@
 import boto3
-improt sys
+import sys
 
 region = sys.argv[1]
 accesskey = sys.argv[2]
